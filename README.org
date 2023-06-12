@@ -1,0 +1,10 @@
+* ec2
+
+Clone of http://common-lisp.net/project/cl-ec2/ tarball, with unofficial hackery on top.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nikodemus/ec2.git   |
+| commit  | 5a48b57  |
+| systems | ec2 |
+|---------+-------------------------------------------|
+
